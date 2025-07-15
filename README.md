@@ -1,32 +1,15 @@
 ## 👋 Hola, soy Matías Ignacio Pastorelli
 
-## 👨‍💻 Sobre mí
+¡Bienvenido/a a mi perfil de GitHub!
 
-👨‍🔧 Desarrollador Backend con +4 años creando APIs y microservicios que funcionan bien, escalan 🚀 y se mantienen en producción 🛠️. Trabajo con Node.js (🟢 Express, 🔴 NestJS) y Laravel (🟥), usando Docker🐳, Kubernetes⚙️/ECS y pipelines de CI/CD (🔁 Jenkins, GitLab CI, GitHub Actions).
+Soy desarrollador backend con experiencia en Node.js, Laravel, AWS y arquitecturas modernas. Me apasiona crear soluciones escalables, seguras y de calidad.
 
-🧠 Manejo JavaScript/TypeScript 💻, PHP 8 🐘, PostgreSQL 🐬, MongoDB 🍃, Redis 🧠, y algo de DynamoDB ⚡. He integrado Kafka 📨 y RabbitMQ 🐇, participando en arquitecturas event-driven 🧩.
+## 📄 Más sobre mí
 
-🧪 Aplico buenas prácticas como TDD/BDD (🧪 Jest), con foco en la calidad del código ✅ (+85 % cobertura, 🔍 análisis en SonarQube, 🛡️ escaneos OWASP).
-
-☁️ En la nube (AWS) ☁️ he optimizado recursos con Lambda 🪂, API Gateway, RDS 🗃️, S3 📦, logrando mejoras en costos 💸 y disponibilidad 📈.
-
-🔄 Participé en la migración de un monolito a microservicios, bajando los despliegues de 40 min a 7 min ⏱️. También he mentoreado a devs junior 👨‍🏫, haciendo code reviews 🔍 y pair programming 🧑‍💻👩‍💻.
-
-🤝 Me destaco por la comunicación clara 🗣️, pensamiento crítico 🤔 y muchas ganas de seguir aprendiendo 📚. Busco equipos con una cultura técnica sólida 🧱, donde pueda crecer en serverless 🔧, seguridad 🔐 y observabilidad 📊.
-
-<!--
-**MatiasPastorelli/MatiasPastorelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [👨‍💻 Sobre mí](docs/sobre-mi.md)
+- [💼 Experiencia Laboral](docs/experiencia.md)
+- [🛠️ Skills y Tecnologías](docs/skills.md)
+- [🚀 Proyectos Destacados](docs/proyectos.md)
+- [📫 Contacto](docs/contacto.md)
 
 
