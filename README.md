@@ -63,6 +63,20 @@
 
 </div>
 
+## 📫 Contacto
+
+<p align="center">
+  <a href="mailto:pastorelli.matias@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" height="32" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/matiaspastorelli/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/MatiasPastorelli" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub"/>
+  </a>
+</p>
+
 ## 💼 Experiencia Laboral
 
 <table border="0"><tr><td><img src="img/logos/koywe_logo.jpeg" alt="Koywe" height="40"/></td><td><span style="font-size:1.7em;"><strong>Koywe</strong></span><br><span><strong>Fullstack Developer</strong> 🖥️ | <em>Enero 2025 - Mayo 2025 (5 meses)</em></span></td></tr></table>
@@ -179,21 +193,6 @@ Aquí puedes agregar una lista de tus proyectos más relevantes. Por ejemplo:
 ---
 -->
 
-## 📫 Contacto
-
-<p align="center">
-  <a href="mailto:pastorelli.matias@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" height="32" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/matiaspastorelli/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/MatiasPastorelli" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub"/>
-  </a>
-</p>
-
----
 
 ✨ ¡Estoy abierto a nuevas oportunidades y colaboraciones! 🚀
 
