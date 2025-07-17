@@ -1,5 +1,7 @@
 ## 👋 Hola, soy Matías Ignacio Pastorelli
 
+<img src="img/banner.png" alt="Banner de Matías Pastorelli" width="100%"/>
+
 ## 👨‍💻 Sobre mí
 
 👨‍🔧 Desarrollador Backend con +4 años creando APIs y microservicios que funcionan bien, escalan y se mantienen en producción. Trabajo con Node.js (Express, NestJS) y Laravel, usando Docker, Kubernetes/ECS y pipelines de CI/CD (Jenkins, GitLab CI, GitHub Actions).
@@ -18,7 +20,7 @@
 
 ## 💼 Experiencia Laboral
 
-<table border="0"><tr><td><img src="img/koywe_logo.jpeg" alt="Koywe" height="40"/></td><td><span style="font-size:1.7em;"><strong>Koywe</strong></span><br><span><strong>Fullstack Developer</strong> 🖥️ | <em>Enero 2025 - Mayo 2025 (5 meses)</em></span></td></tr></table>
+<table border="0"><tr><td><img src="img/logos/koywe_logo.jpeg" alt="Koywe" height="40"/></td><td><span style="font-size:1.7em;"><strong>Koywe</strong></span><br><span><strong>Fullstack Developer</strong> 🖥️ | <em>Enero 2025 - Mayo 2025 (5 meses)</em></span></td></tr></table>
 
 **Tecnologías:** 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -37,7 +39,7 @@
 
 ---
 
-<table border="0"><tr><td><img src="img/itauchile_logo.jpeg" alt="Itaú Chile" height="40"/></td><td><span style="font-size:1.7em;"><strong>Itaú Chile</strong></span><br><span><strong>Backend Developer</strong> 🛠️ | <em>Mayo 2023 - Noviembre 2024 (1 año 7 meses)</em></span></td></tr></table>
+<table border="0"><tr><td><img src="img/logos/itauchile_logo.jpeg" alt="Itaú Chile" height="40"/></td><td><span style="font-size:1.7em;"><strong>Itaú Chile</strong></span><br><span><strong>Backend Developer</strong> 🛠️ | <em>Mayo 2023 - Noviembre 2024 (1 año 7 meses)</em></span></td></tr></table>
 
 **Tecnologías:** 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -61,7 +63,7 @@
 
 ---
 
-<table border="0"><tr><td><img src="img/symbiose_logo.jpeg" alt="Symbiose SpA" height="40"/></td><td><span style="font-size:1.7em;"><strong>Symbiose SpA</strong></span><br><span><strong>Desarrollador</strong> 💻 | <em>Mayo 2021 - Mayo 2023 (2 años 1 mes)</em></span></td></tr></table>
+<table border="0"><tr><td><img src="img/logos/symbiose_logo.jpeg" alt="Symbiose SpA" height="40"/></td><td><span style="font-size:1.7em;"><strong>Symbiose SpA</strong></span><br><span><strong>Desarrollador</strong> 💻 | <em>Mayo 2021 - Mayo 2023 (2 años 1 mes)</em></span></td></tr></table>
 
 **Tecnologías:** 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -83,7 +85,7 @@
 
 ---
 
-<table border="0"><tr><td><img src="img/isbast_logo.jpeg" alt="ISBAST" height="40"/></td><td><span style="font-size:1.7em;"><strong>ISBAST</strong></span><br><span><strong>Software Engineer</strong> 🧑‍💻 | <em>Marzo 2021 - Abril 2021 (2 meses)</em></span></td></tr></table>
+<table border="0"><tr><td><img src="img/logos/isbast_logo.jpeg" alt="ISBAST" height="40"/></td><td><span style="font-size:1.7em;"><strong>ISBAST</strong></span><br><span><strong>Software Engineer</strong> 🧑‍💻 | <em>Marzo 2021 - Abril 2021 (2 meses)</em></span></td></tr></table>
 
 **Tecnologías:** 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -97,7 +99,7 @@
 
 ---
 
-<table border="0"><tr><td><img src="img/pharmatender_logo.png" alt="Pharmatender" height="40"/></td><td><span style="font-size:1.7em;"><strong>Pharmatender</strong></span><br><span><strong>Analista Programador Jr</strong> 👨‍💻 | <em>Diciembre 2019 - Febrero 2021 (1 año 3 meses)</em></span></td></tr></table>
+<table border="0"><tr><td><img src="img/logos/pharmatender_logo.png" alt="Pharmatender" height="40"/></td><td><span style="font-size:1.7em;"><strong>Pharmatender</strong></span><br><span><strong>Analista Programador Jr</strong> 👨‍💻 | <em>Diciembre 2019 - Febrero 2021 (1 año 3 meses)</em></span></td></tr></table>
 
 **Tecnologías:** 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
