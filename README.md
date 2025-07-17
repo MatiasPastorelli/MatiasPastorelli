@@ -18,7 +18,7 @@
 
 ## 💼 Experiencia Laboral
 
-### <img src="img/koywe_logo.jpeg" alt="Koywe" height="40" style="vertical-align:middle; margin-right:8px;"/> Koywe  
+<table><tr><td><img src="img/koywe_logo.jpeg" alt="Koywe" height="40"/></td><td><span style="font-size:1.7em;"><strong>Koywe</strong></span></td></tr></table>
 **Fullstack Developer** 🖥️ | _Enero 2025 - Mayo 2025 (5 meses)_
 
 **Tecnologías:** 
@@ -38,7 +38,7 @@
 
 ---
 
-### <img src="img/itauchile_logo.jpeg" alt="Itaú Chile" height="40" style="vertical-align:middle; margin-right:8px;"/> Itaú Chile  
+<table><tr><td><img src="img/itauchile_logo.jpeg" alt="Itaú Chile" height="40"/></td><td><span style="font-size:1.7em;"><strong>Itaú Chile</strong></span></td></tr></table>
 **Backend Developer** 🛠️ | _Mayo 2023 - Noviembre 2024 (1 año 7 meses)_
 
 **Tecnologías:** 
@@ -63,7 +63,7 @@
 
 ---
 
-### <img src="img/symbiose_logo.jpeg" alt="Symbiose SpA" height="40" style="vertical-align:middle; margin-right:8px;"/> Symbiose SpA  
+<table><tr><td><img src="img/symbiose_logo.jpeg" alt="Symbiose SpA" height="40"/></td><td><span style="font-size:1.7em;"><strong>Symbiose SpA</strong></span></td></tr></table>
 **Desarrollador** 💻 | _Mayo 2021 - Mayo 2023 (2 años 1 mes)_
 
 **Tecnologías:** 
@@ -86,7 +86,7 @@
 
 ---
 
-### <img src="img/isbast_logo.jpeg" alt="ISBAST" height="40" style="vertical-align:middle; margin-right:8px;"/> ISBAST  
+<table><tr><td><img src="img/isbast_logo.jpeg" alt="ISBAST" height="40"/></td><td><span style="font-size:1.7em;"><strong>ISBAST</strong></span></td></tr></table>
 **Software Engineer** 🧑‍💻 | _Marzo 2021 - Abril 2021 (2 meses)_
 
 **Tecnologías:** 
@@ -101,7 +101,7 @@
 
 ---
 
-### <img src="img/pharmatender_logo.png" alt="Pharmatender" height="40" style="vertical-align:middle; margin-right:8px;"/> Pharmatender  
+<table><tr><td><img src="img/pharmatender_logo.png" alt="Pharmatender" height="40"/></td><td><span style="font-size:1.7em;"><strong>Pharmatender</strong></span></td></tr></table>
 **Analista Programador Jr** 👨‍💻 | _Diciembre 2019 - Febrero 2021 (1 año 3 meses)_
 
 **Tecnologías:** 
