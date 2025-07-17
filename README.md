@@ -67,21 +67,19 @@ Un resumen de mi trayectoria profesional. Para ver el detalle completo, haz clic
 
 ---
 
-<!--
 ## 🚀 Proyectos Destacados
 
-Aquí puedes agregar una lista de tus proyectos más relevantes. Por ejemplo:
+### [system-auth](https://github.com/MatiasPastorelli/system-auth) &nbsp; ![En construcción](https://img.shields.io/badge/En%20construcción-yellow?style=flat-square)
 
-- **Nombre del Proyecto 1**  
-  _Breve descripción del proyecto, tecnologías usadas, logros o impacto._
-  [Repositorio](enlace-al-repo) | [Demo](enlace-a-demo)
+Sistema centralizado de autenticación para microservicios, construido con NestJS y principios SOLID.
+Incluye autenticación JWT, integración OAuth2, middleware reutilizable y arquitectura extensible para nuevos proveedores.
+Actualmente en desarrollo activo.
 
-- **Nombre del Proyecto 2**  
-  _Breve descripción del proyecto, tecnologías usadas, logros o impacto._
-  [Repositorio](enlace-al-repo) | [Demo](enlace-a-demo)
+> **Stack:** NestJS, TypeScript, PostgreSQL, Redis, Docker, OAuth2, JWT
+
+[Ver repositorio](https://github.com/MatiasPastorelli/system-auth)
 
 ---
--->
 
 ## 📫 Contacto
 
