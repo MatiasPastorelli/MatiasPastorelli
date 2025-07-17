@@ -59,12 +59,11 @@
 </div>
 
 
-## 💼 Experiencia Laboral
+## 💼 Experiencia
 
-💼 Aquí encontrarás un resumen detallado de mi trayectoria profesional, incluyendo las empresas donde he trabajado, los roles que he desempeñado y los logros más significativos en cada posición. Para ver la información completa, haz clic en el botón de abajo.
+Un resumen de mi trayectoria profesional. Para ver el detalle completo, haz clic en el botón:
 
-
-[![Experiencia Laboral](https://img.shields.io/badge/Experiencia%20Laboral-Ver%20más-blue?style=for-the-badge)](./docs/experiencia.md)
+[![Ver detalle](https://img.shields.io/badge/Ver%20detalle-Experiencia-blue?style=for-the-badge)](./docs/experiencia.md)
 
 ---
 
