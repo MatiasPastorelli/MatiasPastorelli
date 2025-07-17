@@ -1,6 +1,6 @@
 ## 👋 Hola, soy Matías Ignacio Pastorelli
 
-![Banner de Matías Pastorelli](img/banner.png)
+![me](img/banner/banner.png)
 
 ## 👨‍💻 Sobre mí
 
