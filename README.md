@@ -23,53 +23,38 @@
 <div align="center">
 
 <!-- Fila 1 -->
-<img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
-<img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" />
-<img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
-<img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
-<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+<img src="https://skillicons.dev/icons?i=typescript" height="40" />
+<img src="https://skillicons.dev/icons?i=javascript" height="40" />
+<img src="https://skillicons.dev/icons?i=php" height="40" />
+<img src="https://skillicons.dev/icons?i=python" height="40" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+<img src="https://skillicons.dev/icons?i=react" height="40" />
+<img src="https://skillicons.dev/icons?i=nestjs" height="40" />
+<img src="https://skillicons.dev/icons?i=laravel" height="40" />
 
 <br/>
 
 <!-- Fila 2 -->
-<img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-<img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" />
-<img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" />
-<img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
-<img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
+<img src="https://skillicons.dev/icons?i=bootstrap" height="40" />
+<img src="https://skillicons.dev/icons?i=html" height="40" />
+<img src="https://skillicons.dev/icons?i=mysql" height="40" />
+<img src="https://skillicons.dev/icons?i=postgresql" height="40" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="40" />
+<img src="https://skillicons.dev/icons?i=redis" height="40" />
+<img src="https://skillicons.dev/icons?i=dynamodb" height="40" />
+<img src="https://skillicons.dev/icons?i=docker" height="40" />
 
 <br/>
 
 <!-- Fila 3 -->
-<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
-<img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL" />
-<img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
-<img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" />
-<img src="https://skillicons.dev/icons?i=dynamodb" height="40" alt="DynamoDB" />
-
-<br/>
-
-<!-- Fila 4 -->
-<img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-<img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" />
-<img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
-<img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins" />
-<img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab" />
-
-<br/>
-
-<!-- Fila 5 -->
-<img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" />
-<img src="https://skillicons.dev/icons?i=s3" height="40" alt="S3" />
-<img src="https://skillicons.dev/icons?i=lambda" height="40" alt="Lambda" />
-<img src="https://skillicons.dev/icons?i=cloudwatch" height="40" alt="CloudWatch" />
-<img src="https://skillicons.dev/icons?i=kafka" height="40" alt="Kafka" />
-
-<br/>
-
-<!-- Fila 6 -->
-<img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ" />
-<img src="https://skillicons.dev/icons?i=jest" height="40" alt="Jest" />
+<img src="https://skillicons.dev/icons?i=kubernetes" height="40" />
+<img src="https://skillicons.dev/icons?i=aws" height="40" />
+<img src="https://skillicons.dev/icons?i=jenkins" height="40" />
+<img src="https://skillicons.dev/icons?i=gitlab" height="40" />
+<img src="https://skillicons.dev/icons?i=githubactions" height="40" />
+<img src="https://skillicons.dev/icons?i=kafka" height="40" />
+<img src="https://skillicons.dev/icons?i=rabbitmq" height="40" />
+<img src="https://skillicons.dev/icons?i=jest" height="40" />
 
 </div>
 
