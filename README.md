@@ -181,11 +181,17 @@ Aquí puedes agregar una lista de tus proyectos más relevantes. Por ejemplo:
 
 ## 📫 Contacto
 
-¿Te gustaría contactarme? Puedes encontrarme en:
-
-- 📧 **Email:** pastorelli.matias@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/matiaspastorelli](https://www.linkedin.com/in/matiaspastorelli/)
-- 🐙 **GitHub:** [github.com/MatiasPastorelli](https://github.com/MatiasPastorelli)
+<p align="center">
+  <a href="mailto:pastorelli.matias@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" height="32" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/matiaspastorelli/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/MatiasPastorelli" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
