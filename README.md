@@ -21,44 +21,58 @@
 ## 🧰 Stack Tecnológico
 
 <div align="center">
-  <!-- Lenguajes -->
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
-  <br/>
-  <!-- Frameworks y Librerías -->
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
-  <br/>
-  <!-- Bases de Datos -->
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" />
-  <img src="https://skillicons.dev/icons?i=dynamodb" height="40" alt="DynamoDB" />
-  <br/>
-  <!-- DevOps y Cloud -->
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" />
-  <img src="https://skillicons.dev/icons?i=s3" height="40" alt="S3" />
-  <img src="https://skillicons.dev/icons?i=lambda" height="40" alt="Lambda" />
-  <img src="https://skillicons.dev/icons?i=cloudwatch" height="40" alt="CloudWatch" />
-  <br/>
-  <!-- Otros -->
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="Kafka" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ" />
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="Jest" />
-  <img src="https://skillicons.dev/icons?i=blockchain" height="40" alt="Blockchain" />
-  <img src="https://skillicons.dev/icons?i=excel" height="40" alt="Excel" />
+
+<!-- Fila 1 -->
+<img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
+<img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+
+<br/>
+
+<!-- Fila 2 -->
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+<img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" />
+<img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" />
+<img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
+<img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
+
+<br/>
+
+<!-- Fila 3 -->
+<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+<img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" />
+<img src="https://skillicons.dev/icons?i=dynamodb" height="40" alt="DynamoDB" />
+
+<br/>
+
+<!-- Fila 4 -->
+<img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" />
+<img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+<img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins" />
+<img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab" />
+
+<br/>
+
+<!-- Fila 5 -->
+<img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=s3" height="40" alt="S3" />
+<img src="https://skillicons.dev/icons?i=lambda" height="40" alt="Lambda" />
+<img src="https://skillicons.dev/icons?i=cloudwatch" height="40" alt="CloudWatch" />
+<img src="https://skillicons.dev/icons?i=kafka" height="40" alt="Kafka" />
+
+<br/>
+
+<!-- Fila 6 -->
+<img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ" />
+<img src="https://skillicons.dev/icons?i=jest" height="40" alt="Jest" />
+<img src="https://skillicons.dev/icons?i=blockchain" height="40" alt="Blockchain" />
+<img src="https://skillicons.dev/icons?i=excel" height="40" alt="Excel" />
+
 </div>
 
 
@@ -180,17 +194,13 @@ Aquí puedes agregar una lista de tus proyectos más relevantes. Por ejemplo:
 
 ## 📫 Contacto
 
-<p align="center">
-  <a href="mailto:pastorelli.matias@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/matiaspastorelli/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/MatiasPastorelli" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matias%20Pastorelli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/matiaspastorelli/)
+[![GitHub](https://img.shields.io/badge/GitHub-MatiasPastorelli-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/MatiasPastorelli)
+[![Email](https://img.shields.io/badge/pastorelli.matias@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:pastorelli.matias@gmail.com)
+
+</div>
 
 
 ✨ ¡Estoy abierto a nuevas oportunidades y colaboraciones! 🚀
