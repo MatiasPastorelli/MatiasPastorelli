@@ -18,7 +18,7 @@
 
 ## 💼 Experiencia Laboral
 
-### 🚀 Koywe  
+### <img src="img/koywe_logo.jpeg" alt="Koywe" height="40" style="vertical-align:middle; margin-right:8px;"/> Koywe  
 **Fullstack Developer** 🖥️ | _Enero 2025 - Mayo 2025 (5 meses)_
 
 **Tecnologías:** 
@@ -38,7 +38,7 @@
 
 ---
 
-### 🏦 Itaú Chile  
+### <img src="img/itauchile_logo.jpeg" alt="Itaú Chile" height="40" style="vertical-align:middle; margin-right:8px;"/> Itaú Chile  
 **Backend Developer** 🛠️ | _Mayo 2023 - Noviembre 2024 (1 año 7 meses)_
 
 **Tecnologías:** 
@@ -63,7 +63,7 @@
 
 ---
 
-### 🧬 Symbiose SpA  
+### <img src="img/symbiose_logo.jpeg" alt="Symbiose SpA" height="40" style="vertical-align:middle; margin-right:8px;"/> Symbiose SpA  
 **Desarrollador** 💻 | _Mayo 2021 - Mayo 2023 (2 años 1 mes)_
 
 **Tecnologías:** 
@@ -86,7 +86,7 @@
 
 ---
 
-### 🏠 ISBAST  
+### <img src="img/isbast_logo.jpeg" alt="ISBAST" height="40" style="vertical-align:middle; margin-right:8px;"/> ISBAST  
 **Software Engineer** 🧑‍💻 | _Marzo 2021 - Abril 2021 (2 meses)_
 
 **Tecnologías:** 
@@ -101,7 +101,7 @@
 
 ---
 
-### 💊 Pharmatender  
+### <img src="img/pharmatender_logo.png" alt="Pharmatender" height="40" style="vertical-align:middle; margin-right:8px;"/> Pharmatender  
 **Analista Programador Jr** 👨‍💻 | _Diciembre 2019 - Febrero 2021 (1 año 3 meses)_
 
 **Tecnologías:** 
