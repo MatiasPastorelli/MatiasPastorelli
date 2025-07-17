@@ -42,7 +42,7 @@
 
 <!-- Fila 3 -->
 <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
-<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL" />
 <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
 <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" />
 <img src="https://skillicons.dev/icons?i=dynamodb" height="40" alt="DynamoDB" />
@@ -70,8 +70,6 @@
 <!-- Fila 6 -->
 <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ" />
 <img src="https://skillicons.dev/icons?i=jest" height="40" alt="Jest" />
-<img src="https://skillicons.dev/icons?i=blockchain" height="40" alt="Blockchain" />
-<img src="https://skillicons.dev/icons?i=excel" height="40" alt="Excel" />
 
 </div>
 
