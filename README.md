@@ -18,8 +18,7 @@
 
 ## 💼 Experiencia Laboral
 
-<table><tr><td><img src="img/koywe_logo.jpeg" alt="Koywe" height="40"/></td><td><span style="font-size:1.7em;"><strong>Koywe</strong></span></td></tr></table>
-**Fullstack Developer** 🖥️ | _Enero 2025 - Mayo 2025 (5 meses)_
+<table border="0"><tr><td><img src="img/koywe_logo.jpeg" alt="Koywe" height="40"/></td><td><span style="font-size:1.7em;"><strong>Koywe</strong></span><br><span><strong>Fullstack Developer</strong> 🖥️ | <em>Enero 2025 - Mayo 2025 (5 meses)</em></span></td></tr></table>
 
 **Tecnologías:** 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -38,8 +37,7 @@
 
 ---
 
-<table><tr><td><img src="img/itauchile_logo.jpeg" alt="Itaú Chile" height="40"/></td><td><span style="font-size:1.7em;"><strong>Itaú Chile</strong></span></td></tr></table>
-**Backend Developer** 🛠️ | _Mayo 2023 - Noviembre 2024 (1 año 7 meses)_
+<table border="0"><tr><td><img src="img/itauchile_logo.jpeg" alt="Itaú Chile" height="40"/></td><td><span style="font-size:1.7em;"><strong>Itaú Chile</strong></span><br><span><strong>Backend Developer</strong> 🛠️ | <em>Mayo 2023 - Noviembre 2024 (1 año 7 meses)</em></span></td></tr></table>
 
 **Tecnologías:** 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -63,8 +61,7 @@
 
 ---
 
-<table><tr><td><img src="img/symbiose_logo.jpeg" alt="Symbiose SpA" height="40"/></td><td><span style="font-size:1.7em;"><strong>Symbiose SpA</strong></span></td></tr></table>
-**Desarrollador** 💻 | _Mayo 2021 - Mayo 2023 (2 años 1 mes)_
+<table border="0"><tr><td><img src="img/symbiose_logo.jpeg" alt="Symbiose SpA" height="40"/></td><td><span style="font-size:1.7em;"><strong>Symbiose SpA</strong></span><br><span><strong>Desarrollador</strong> 💻 | <em>Mayo 2021 - Mayo 2023 (2 años 1 mes)</em></span></td></tr></table>
 
 **Tecnologías:** 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -86,8 +83,7 @@
 
 ---
 
-<table><tr><td><img src="img/isbast_logo.jpeg" alt="ISBAST" height="40"/></td><td><span style="font-size:1.7em;"><strong>ISBAST</strong></span></td></tr></table>
-**Software Engineer** 🧑‍💻 | _Marzo 2021 - Abril 2021 (2 meses)_
+<table border="0"><tr><td><img src="img/isbast_logo.jpeg" alt="ISBAST" height="40"/></td><td><span style="font-size:1.7em;"><strong>ISBAST</strong></span><br><span><strong>Software Engineer</strong> 🧑‍💻 | <em>Marzo 2021 - Abril 2021 (2 meses)</em></span></td></tr></table>
 
 **Tecnologías:** 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -101,8 +97,7 @@
 
 ---
 
-<table><tr><td><img src="img/pharmatender_logo.png" alt="Pharmatender" height="40"/></td><td><span style="font-size:1.7em;"><strong>Pharmatender</strong></span></td></tr></table>
-**Analista Programador Jr** 👨‍💻 | _Diciembre 2019 - Febrero 2021 (1 año 3 meses)_
+<table border="0"><tr><td><img src="img/pharmatender_logo.png" alt="Pharmatender" height="40"/></td><td><span style="font-size:1.7em;"><strong>Pharmatender</strong></span><br><span><strong>Analista Programador Jr</strong> 👨‍💻 | <em>Diciembre 2019 - Febrero 2021 (1 año 3 meses)</em></span></td></tr></table>
 
 **Tecnologías:** 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
