@@ -21,7 +21,15 @@
 ### 🚀 Koywe  
 **Fullstack Developer** 🖥️ | _Enero 2025 - Mayo 2025 (5 meses)_
 
-**Tecnologías:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=blockchain.com&logoColor=white)
+**Tecnologías:** 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=blockchain.com&logoColor=white)
 
 - 🏦 Diseñé e implementé un servicio de onboarding KYC de alto rendimiento, integrando APIs de backend para el registro seguro de datos y cumplimiento de regulaciones internacionales.
 - 🪪 Desarrollé un iframe versátil para la verificación de documentos de identidad de múltiples países, optimizando la experiencia de usuario.
@@ -33,7 +41,18 @@
 ### 🏦 Itaú Chile  
 **Backend Developer** 🛠️ | _Mayo 2023 - Noviembre 2024 (1 año 7 meses)_
 
-**Tecnologías:** ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+**Tecnologías:** 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
 
 - 📈 Analicé historias de usuario para diseñar soluciones técnicas eficientes y alineadas con los objetivos de negocio para la nueva aplicación ITU.
 - 🔌 Desarrollé APIs, BFFs y BCLs bajo una arquitectura de microservicios, optimizando la funcionalidad y escalabilidad de la plataforma.
@@ -47,7 +66,15 @@
 ### 🧬 Symbiose SpA  
 **Desarrollador** 💻 | _Mayo 2021 - Mayo 2023 (2 años 1 mes)_
 
-**Tecnologías:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+**Tecnologías:** 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 **Liberty Seguros:**
 - ☁️ Diseñé y desplegué funciones Lambda en AWS utilizando Jenkins, habilitando la extracción eficiente de datos desde bases de datos.
@@ -62,7 +89,11 @@
 ### 🏠 ISBAST  
 **Software Engineer** 🧑‍💻 | _Marzo 2021 - Abril 2021 (2 meses)_
 
-**Tecnologías:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+**Tecnologías:** 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 - 🤝 Colaboré en un equipo ágil para desarrollar un nuevo portal inmobiliario, diseñando soluciones backend escalables y eficientes.
 - 🗃️ Modelé y optimicé una base de datos relacional en MySQL para gestionar datos inmobiliarios.
@@ -73,7 +104,15 @@
 ### 💊 Pharmatender  
 **Analista Programador Jr** 👨‍💻 | _Diciembre 2019 - Febrero 2021 (1 año 3 meses)_
 
-**Tecnologías:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+**Tecnologías:** 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 - 📊 Procesé y analicé datos de Mercado Público para generar soluciones personalizadas según las necesidades de los clientes.
 - 🗄️ Diseñé y modelé bases de datos relacionales en MySQL para almacenar y gestionar eficientemente información de mercado.
