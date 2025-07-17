@@ -85,13 +85,10 @@ Aquí puedes agregar una lista de tus proyectos más relevantes. Por ejemplo:
 
 ## 📫 Contacto
 
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matias%20Pastorelli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/matiaspastorelli/)
 [![GitHub](https://img.shields.io/badge/GitHub-MatiasPastorelli-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/MatiasPastorelli)
 [![Email](https://img.shields.io/badge/pastorelli.matias@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:pastorelli.matias@gmail.com)
-
-</div>
 
 
 ✨ ¡Estoy abierto a nuevas oportunidades y colaboraciones! 🚀
