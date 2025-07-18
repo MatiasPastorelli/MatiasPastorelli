@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Sobre mí
 
-👨‍🔧 Desarrollador Backend con +4 años creando APIs y microservicios que funcionan bien, escalan y se mantienen en producción. Trabajo con Node.js (Express, NestJS) y Laravel, usando Docker, Kubernetes/ECS y pipelines de CI/CD (Jenkins, GitLab CI, GitHub Actions).
+👨‍🔧 Desarrollador con +4 años creando APIs y microservicios que funcionan bien, escalan y se mantienen en producción. Trabajo con Node.js (Express, NestJS) y Laravel, usando Docker, Kubernetes/ECS y pipelines de CI/CD (Jenkins, GitLab CI, GitHub Actions).
 
 🧠 Manejo JavaScript/TypeScript, PHP 8, PostgreSQL, MongoDB, Redis, y algo de DynamoDB. He integrado Kafka y RabbitMQ, participando en arquitecturas event-driven.
 
